@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-07T10:19:37.763Z</updated>
+  <updated>2024-11-23T02:45:22.152Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/undefined.html"/>
     <id>http://example.com/undefined.html</id>
     <published>2024-10-30T22:42:51.000Z</published>
-    <updated>2024-11-07T10:19:37.763Z</updated>
+    <updated>2024-11-23T02:45:22.152Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>This message is used to verify that this feed (feedId:74464011884321792) belongs to me (userId:73478682117993472). Join me in enjoying the next generation information browser <a href="https://follow.is/">https://follow.is</a>.</p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://example.com/undefined.html"/>
     <id>http://example.com/undefined.html</id>
     <published>1970-01-01T00:00:02.023Z</published>
-    <updated>2024-11-07T10:19:37.763Z</updated>
+    <updated>2024-11-23T02:45:22.152Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://s1.ax1x.com/2023/05/07/p9dtaVI.png" alt="p9dtaVI.png"><br><img src="https://s1.ax1x.com/2023/05/07/p9dtYKH.jpg" alt="p9dtYKH.jpg"><br><img src="https://s1.ax1x.com/2023/05/07/p9dttrd.jpg" alt="p9dttrd.jpg"></p>]]></content>
     
